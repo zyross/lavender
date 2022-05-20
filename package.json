@@ -1,0 +1,15 @@
+{
+  "name": "lavender",
+  "version": "1.0.0",
+  "description": "Discord bot developed by Zyros <3",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [
+    "lavenderbot"
+  ],
+  "author": "Zyros",
+  "license": "MIT"
+}
